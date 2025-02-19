@@ -1,15 +1,14 @@
 ---
 title: RUST整理1--变量解绑与绑定
-description:
+description: 变量解绑与绑定
 published: 2024-05-22
-tags: 课内学习
+tags: ["课内学习"]
 comments: true
-image:
-  - "img/slt10.jpg"
+image: "img/slt10.jpg"
 categories:
   - 专业选修
   - RUST程序设计
-draft:
+draft:false
 ---
 
 
