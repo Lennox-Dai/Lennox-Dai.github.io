@@ -8,7 +8,7 @@ image: "img/slt10.jpg"
 categories:
   - 专业选修
   - RUST程序设计
-draft:false
+draft: false
 ---
 
 
