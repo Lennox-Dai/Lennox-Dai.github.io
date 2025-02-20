@@ -43,6 +43,12 @@ draft: false
 4. #### 方法优势
 
    ![compare](../content/posts/25_02_19 TOOLLLM/img/compare.png)
+   
+   ![compare](content/posts/25_02_19 TOOLLLM/img/compare.png)
+   
+   ![compare](posts/25_02_19 TOOLLLM/img/compare.png)
+   
+   ![compare](../content/posts/25_02_19%20TOOLLLM/img/compare.png)
 
 
 
