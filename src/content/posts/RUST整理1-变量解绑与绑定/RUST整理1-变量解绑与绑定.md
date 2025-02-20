@@ -5,7 +5,7 @@ published: 2024-05-22
 tags: ["课内学习"]
 comments: true
 image: "img/slt10.jpg"
-categories: RUST程序设计
+category: RUST程序设计
 draft: false
 ---
 

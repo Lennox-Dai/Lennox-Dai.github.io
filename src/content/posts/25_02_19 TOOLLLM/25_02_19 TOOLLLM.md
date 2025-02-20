@@ -1,11 +1,11 @@
 ---
-title: 25_02_19 TOOLLLM
+title: 25_02_19/TOOLLLM
 published: 2025-02-19
 description: 'TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS'
 image: 'img/head.png'
 tags: ['Multiagent LLM']
 category: 每日阅读
-draft: true 
+draft: false 
 ---
 
 # TOOLLLM: FACILITATING LARGE LANGUAGE MODELS TO MASTER 16000+ REAL-WORLD APIS
