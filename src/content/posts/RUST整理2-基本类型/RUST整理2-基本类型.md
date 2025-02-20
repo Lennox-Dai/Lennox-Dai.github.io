@@ -2,7 +2,7 @@
 title: RUST整理2--基本类型
 description: 基本类型
 published: 2024-05-22
-tags: 课内学习
+tags: ["课内学习"]
 comments: true
 image: "img/slt14.jpg"
 category: RUST程序设计
