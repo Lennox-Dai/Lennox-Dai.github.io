@@ -34,7 +34,7 @@ draft: true
 
 3. #### 解决方法
 
-   ![head](img\head.png)
+   ![head](..\content\posts\25_02_19 TOOLLLM\img\head.png)
 
    - [ ] 从RapidAPI拿api
    - [ ] 丢给GPT生成调用的指令，整理成**ToolBench**
@@ -42,7 +42,7 @@ draft: true
 
 4. #### 方法优势
 
-   ![compare](img\compare.png)
+   ![compare](..\content\posts\25_02_19 TOOLLLM\img\compare.png)
 
 
 
@@ -63,7 +63,7 @@ draft: true
 
 3. #### Depth First Search-based Decision Tree
 
-   ![DFSDT](img\DFSDT.png)
+   ![DFSDT](..\content\posts\25_02_19 TOOLLLM\img\DFSDT.png)
 
    > *CoT和ReACT的问题：*
    >
@@ -76,4 +76,4 @@ draft: true
 
 ### 实验结果
 
-![exp](img\exp.png)
+![exp](..\content\posts\25_02_19 TOOLLLM\img\exp.png)
