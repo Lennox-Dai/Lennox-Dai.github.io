@@ -51,9 +51,9 @@ export const navBarConfig: NavBarConfig = {
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
+  avatar: 'assets/images/avatar.png',  // Relative to the /src directory. Relative to the /public directory if it starts with '/'
   name: 'Vitamind',
-  bio: '为了继续某件事必须遵循的连关天则。',
+  bio: '为了继续而必须遵循的连关天则。',
   links: [
     // {
     //   name: 'Twitter',
@@ -70,7 +70,7 @@ export const profileConfig: ProfileConfig = {
     {
       name: 'GitHub',
       icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/Lennox-Dai',
     },
   ],
 }
