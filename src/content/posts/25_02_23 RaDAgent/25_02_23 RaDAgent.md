@@ -1,6 +1,6 @@
 ---
 title: 25_02_23/RaDAgent
-published: 2025-02-22
+published: 2025-02-23
 description: 'RATIONAL DECISION-MAKING AGENT WITH INTERNALIZED UTILITY JUDGMENT'
 image: 'img/head.png'
 tags: ['Muiltiagent LLM']
