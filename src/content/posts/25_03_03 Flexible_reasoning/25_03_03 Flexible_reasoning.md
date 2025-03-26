@@ -2,7 +2,7 @@
 title: 25_03_03 Flexible_reasoning
 published: 2025-03-03
 description: '对已有文章的一些总结'
-image: 'img/head.png'
+image: 'img/head.jpg'
 tags: ['dynamic_reasoning']
 category: 每日阅读
 draft: false 
